@@ -6,5 +6,5 @@ let age =prompt("what is your age")
 
 let email=prompt("what is your email address" )
 
-alert("Hi +nname" = "You are"  + age + "years old and we will keep in touch via email:")
+alert("Hi " + name + " You are "  + age + " years old and we will keep in touch via " +email +"thank you");
 
